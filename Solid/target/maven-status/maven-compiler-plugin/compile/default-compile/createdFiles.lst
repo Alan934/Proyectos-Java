@@ -1,0 +1,7 @@
+com\mycompany\solid\Solid.class
+com\mycompany\solid\Depositar.class
+com\mycompany\solid\Retirar.class
+com\mycompany\solid\Transferir.class
+com\mycompany\solid\CambiarTitular.class
+com\mycompany\solid\Transaccion.class
+com\mycompany\solid\CuentaBancaria.class
